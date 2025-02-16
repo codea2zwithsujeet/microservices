@@ -1,0 +1,8 @@
+# Ignore build output directories
+bin/
+obj/
+
+# Additional common ignores for .NET projects (optional)
+*.user
+*.suo
+.vs/
