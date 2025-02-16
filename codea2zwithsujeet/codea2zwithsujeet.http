@@ -1,6 +1,0 @@
-@codea2zwithsujeet_HostAddress = http://localhost:5198
-
-GET {{codea2zwithsujeet_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
