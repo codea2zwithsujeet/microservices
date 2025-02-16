@@ -1,0 +1,6 @@
+@codea2zwithsujeet.PortfolioService_HostAddress = http://localhost:5096
+
+GET {{codea2zwithsujeet.PortfolioService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

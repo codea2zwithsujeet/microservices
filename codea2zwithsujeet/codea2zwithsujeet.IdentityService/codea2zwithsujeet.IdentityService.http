@@ -1,0 +1,6 @@
+@codea2zwithsujeet.IdentityService_HostAddress = http://localhost:5092
+
+GET {{codea2zwithsujeet.IdentityService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
